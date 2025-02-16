@@ -505,11 +505,15 @@ background: #CD201F; color: #ffffff;
   color: #00b4d8;
 }
 @media (max-width: 768px) {
-  width:200px
+  .section{
+      width:200px
+  }
 }
 
 @media (max-width: 480px) {
- width:200px
+ .section{
+      width:200px
+  }
 }
 
 /*Skills*/
